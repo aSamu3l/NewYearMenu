@@ -1,0 +1,19 @@
+{
+  "appetizer": [
+    "Shrimp Cocktail",
+    "Stuffed Mushrooms"
+  ],
+  "first course": [
+    "Lobster Bisque",
+    "Caesar Salad"
+  ],
+  "main course": [
+    "Beef Wellington",
+    "Grilled Salmon"
+  ],
+  "dessert": [
+    "Tiramisu",
+    "Chocolate Fondue",
+    "Champagne Sorbet"
+  ]
+}
